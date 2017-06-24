@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">快看小说</string>
+    <string name="network_error">未知错误</string>
+    <string name="sort">排序</string>
+    <string name="next_page">下一页</string>
+    <string name="on_page">上一页</string>
+    <string name="search_title">搜索</string>
+    <string name="title_81">81中文网</string>
+    <string name="on_empty">没有了</string>
+    <string name="title_bi_qu_ge">笔趣阁</string>
+    <string name="title_ksw">零点看书</string>
+    <string name="search_dialog_hint">请输入小说名</string>
+</resources>
